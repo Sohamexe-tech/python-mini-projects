@@ -6,7 +6,7 @@ API_KEY = "518b3dd455ca5be34f865b8757a70e65"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 # ---------------------
 
-def get_weather(city_name):
+def get_weather(city_name)
     """
     Fetches the current weather data for a given city name.
     """
