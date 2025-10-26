@@ -1,2 +1,3 @@
-In this repository I will be giving Miniprojects ( basic project such as no. guesser, to do list, etc) in python for understanding
-Author- Soham Dalvi
+Python Fundamentals ShowcaseThis repository features a collection of projects designed to reinforce fundamental and intermediate Python programming concepts.
+Authored by Soham Dalvi, these applications highlight versatility in core Python programming principles:Data Analysis & Utilities: Scripts demonstrating file I/O using the CSV module, robust error handling, and string manipulation for accurate text analysis (e.g., CSV Analyzer and Word Counter).
+Game & Logic Development: Implementation of interactive, turn-based logic, demonstrating the effective use of loops, dictionaries, and conditional statements to manage game state and user input (e.g., Rock, Paper, Scissors).This work confirms a strong foundation in writing clean, modular, and well-structured Python code.
